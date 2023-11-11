@@ -1,0 +1,7 @@
+23456778,Paola,La Molina,64,37
+23454788,Anyeli,Chaclacayo,60,37
+23456758,Fabricio,Callao,69,39
+23436778,Maria,Pachacamac,70,38
+23476779,Juan,Surco,78,36
+23476779,Ivan,Callao,78,36
+23476779,Natan,Surco,78,36
